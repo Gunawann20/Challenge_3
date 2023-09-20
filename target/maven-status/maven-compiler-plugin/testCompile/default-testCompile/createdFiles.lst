@@ -1,0 +1,9 @@
+org\example\controller\BinarFudControllerTest.class
+org\example\entity\OrderTest.class
+org\example\MainTest.class
+org\example\repository\OrderRepositoryImplTest.class
+org\example\util\InputUtilTest.class
+org\example\repository\MenuRepositoryImplTest.class
+org\example\entity\MenuTest.class
+org\example\service\OrderServiceImplTest.class
+org\example\util\StrukUtilTest.class
